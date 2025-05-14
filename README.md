@@ -99,11 +99,3 @@ As the **AI/ML Engineer and Researcher**, I led the development and integration 
 - Incorporate EHR/Medical record upload system
 
 ---
-
-## 🙏 Acknowledgements
-
-- Special thanks to **Geek Room Plaksha** and **Plaksha University** for the platform and opportunity.
-- Huge shoutout to all mentors and judges who gave us invaluable feedback.
-- And of course, to the entire **Team Doct-i** for pushing through every line of code and sleepless night!
-
----
