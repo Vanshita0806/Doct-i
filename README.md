@@ -4,6 +4,7 @@ Built at **Hack Summit 2025 – Plaksha University**, Doct-i is a full-stack hea
 
 > 🎉 Finalist – Hack Summit 2025 (Top 73 out of 250+ teams / 720+ registrations)  
 > 🏆 Winner – TechVision Hackathon
+[📂 **Project Repository**](https://github.com/raikwar7/doct-i-hack-summit-) 
 
 ---
 
