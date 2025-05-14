@@ -3,14 +3,7 @@
 Built at **Hack Summit 2025 – Plaksha University**, Doct-i is a full-stack healthcare platform powered by cutting-edge AI. Designed for **early diagnosis**, **smart doctor access**, and **comprehensive health support**, Doct-i aims to make intelligent healthcare accessible to everyone.
 
 > 🎉 Finalist – Hack Summit 2025 (Top 73 out of 250+ teams / 720+ registrations)  
-> 🏆 Winner – [Name of hackathon won, if you want to mention it here]
-
----
-
-## 🚀 Quick Links
-
-- 🔗 [GitHub Repo](https://lnkd.in/gUJUF2hn)
-- 🎥 [Demo Video](https://lnkd.in/g6U4Vkwt)
+> 🏆 Winner – TechVision Hackathon
 
 ---
 
@@ -40,6 +33,18 @@ Doct-i is a robust and scalable healthtech solution that integrates **AI models*
 - ✅ **Fitness Report Generator** – Calculates and visualizes health status using BMI.
 - ✅ **Insurance Guide Page** – Helps users understand and access insurance-related services.
 - 🚧 **Emergency Hospital Locator** – (In Progress) Location-aware hospital search via OpenStreetMap API.
+
+---
+
+## 👨‍💻 My Contributions
+
+As the **AI/ML Engineer and Researcher**, I led the development and integration of the core intelligence layer of Doct-i:
+
+- 🔍 Developed the **Disease Prediction Model** using **Random Forest**, returning the **top 7 disease probabilities** for a given symptom set.
+- 🖼️ Built and trained the **Skin Disease Detection** model using **TensorFlow** for image-based diagnosis.
+- 🧠 Designed and implemented the **NLP-powered Symptom Assessment Chatbot** using **Dialogflow + Flask + Ngrok**.
+- 👨‍⚕️ Created a **Smart Doctor Recommendation Engine** using an **average weighted scoring model** based on specialty, rating, and location.
+- 📊 Engineered the **BMI-Based Fitness Report Generator** to provide personalized health insights with visual feedback.
 
 ---
 
@@ -77,17 +82,6 @@ Doct-i is a robust and scalable healthtech solution that integrates **AI models*
 
 ---
 
-## 🧑‍💻 Roles & Contribution
-
-| Name           | Role                      |
-|----------------|---------------------------|
-| **Divyansh**   | AI/ML Engineer, Researcher – Developed prediction, recommendation, and chatbot models |
-| Suhani         | Frontend Developer        |
-| Vanshita       | Full-stack Developer      |
-| Gaurav Rathour | Backend & Database Expert |
-
----
-
 ## 📝 Lessons & Takeaways
 
 - 🧩 Learned to handle real-world use cases and scalability.
@@ -113,15 +107,3 @@ Doct-i is a robust and scalable healthtech solution that integrates **AI models*
 - And of course, to the entire **Team Doct-i** for pushing through every line of code and sleepless night!
 
 ---
-
-## 📣 Let’s Collaborate
-
-We’re open to contributions, collaborations, and feedback.
-
-**Connect with us**  
-📧 Email: [Your Email]  
-🌐 LinkedIn: [Your LinkedIn]  
-💡 Portfolio: [Your Portfolio Link]
-
-> Let’s build. Let’s innovate. Let’s make an impact. 🚀
-
